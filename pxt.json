@@ -1,0 +1,23 @@
+{
+    "name": "遥控器",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "GHBit": "github:lzty634158/ghbit#bbbe5f812211ee7b1576bbb046b981339dca5bbc",
+        "warrior": "github:joymaya/warrior#7388dc2f316847d70b33157816a3f1138314e20b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
